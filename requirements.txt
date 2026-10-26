@@ -1,0 +1,12 @@
+pandas
+python-dateutil
+openpyxl
+tabulate
+boto3
+certifi
+pyarrow
+# opcionais
+awswrangler    # query_athena_df_spark* e athena_to_pandas
+pyspark        # funcoes_s3 (escrita/leitura via Spark) e schema_normalize
+rarfile        # leitura de .rar em funcoes_arquivos
+py7zr          # leitura de .7z em funcoes_arquivos

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+cacert.crt*
+resultado_arquivos.xlsx
+cache_arquivos_comprimidos.json
